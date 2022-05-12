@@ -1,0 +1,151 @@
+@import '../../common/scss/colors';
+
+.totalsCard {
+    width: 100%;
+    font-family: londrinaSolidBlack;
+    color: $golden-dark;
+    font-size: x-large;
+    border: 3px groove $golden-dark;
+    background: $background;
+    border-radius: 7px;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    margin: 5px;    
+
+    &__totalsContainer {
+        display: flex;
+    }
+
+    .periodTitle {
+        font-size: 20px;
+        letter-spacing: 0.7px;
+        text-align: center;
+        border-radius: 3px;
+        background-color: $golden-dark2;
+        color: $golden-dark;
+        width: 99%;
+        padding-top: 5px;
+        padding-bottom: 3px;
+        margin: 1px;
+    }
+
+    .modelsCount {
+        border: 2px outset $golden-dark; 
+        border-radius: 5px;
+        margin: 1px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        align-items: center;
+        width: 16%;
+
+        &__totalModels {
+            font-size: 70px;
+        }
+    }
+
+    .periodProfit {
+        border: 2px outset $golden-dark; 
+        border-radius: 5px;
+        margin: 1px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        align-items: center;
+        width: 32%;
+        cursor: pointer;
+        
+        &__profitUS {
+            font-size: 40px;
+            line-height: 40px;
+            align-self: flex-end;
+            margin-right: 10px;
+        }
+        
+        &__profitCOP {
+            font-size: 30px;
+            line-height: 30px;
+            align-self: flex-end;
+            margin-right: 5px;
+        }
+    }
+
+    .platforms {
+        margin: 3px;
+        font-family: londrinaSolidRegular;        
+        color: $basic-blue;
+
+        .totals {
+            padding: 5px;
+            margin: 3px;
+            border: 2px outset $golden-dark;
+            border-radius: 5px;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+
+            &__title {            
+                width: 20%;
+            }
+
+            &__child {
+                border: 2px outset $golden-dark;
+                border-radius: 5px;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: space-between;
+                font-size: x-large;
+                width: 15%;
+            }
+        }
+    }
+
+    .profitPerSecond {
+        border: 2px outset $golden-dark; 
+        border-radius: 5px;
+        margin: 1px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        align-items: center;
+        width: 19%;
+                
+        &__profitCOP, &__profitUS {
+            font-size: 30px;
+            line-height: 30px;
+            align-self: flex-end;
+            margin-right: 5px;
+        }
+    }
+
+    .periodTime {
+        border: 2px outset $golden-dark; 
+        border-radius: 5px;
+        margin: 1px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        align-items: center;
+        width: 18%;
+    }
+
+    .periodDates {
+        font-size: large;
+        border: 2px outset $golden-dark; 
+        border-radius: 5px;
+        margin: 1px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        align-items: center;
+        text-align: end;
+        width: 18%;
+
+        &__fromDate, &__toDate {                    
+        line-height: 15px;
+        margin: 3.14px;
+        }
+    }
+}

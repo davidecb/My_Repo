@@ -1,0 +1,120 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TarjetaProductoSolicitado Test should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-AxjAm cVcuKC"
+  >
+    <div
+      class="sc-AxirZ elnmyV"
+    >
+      ❌
+    </div>
+    <img
+      class="sc-Axmtr kBGTeh"
+      src="imagen.jpg"
+    />
+    <div
+      class="sc-AxiKw egosaa"
+    >
+      producto testing
+    </div>
+    <span
+      class="sc-AxhCb cZiLQ"
+    >
+      <b>
+        costo/unidad:
+      </b>
+       $
+    </span>
+    <span
+      class="sc-AxhUy fvcdQl"
+    >
+      <b>
+        tiempo/unidad:
+      </b>
+       
+       min.
+    </span>
+    <div
+      class="sc-AxheI dZIHTm"
+    >
+      <div>
+        <b>
+          material:
+        </b>
+         
+        PLA
+      </div>
+      <div>
+        <b>
+          color:
+        </b>
+         
+        negro
+      </div>
+      <div>
+        <b>
+          acabado:
+        </b>
+        <div
+          class="sc-AxgMl ipXOHv"
+        >
+          <div>
+            pulido: 
+            <input
+              type="checkbox"
+            />
+          </div>
+          <div>
+            pintado: 
+            <input
+              type="checkbox"
+            />
+          </div>
+          <div>
+            barnizado: 
+            <input
+              type="checkbox"
+            />
+          </div>
+        </div>
+      </div>
+      <div>
+        <b>
+          urgencia:
+        </b>
+        <input
+          type="checkbox"
+        />
+      </div>
+      <div>
+        <b>
+          cantidad:
+        </b>
+         
+        2
+      </div>
+    </div>
+    <span
+      class="sc-AxhCb cZiLQ"
+    >
+      <b>
+        costo total:
+      </b>
+       $
+      NaN
+    </span>
+    <span
+      class="sc-AxhUy fvcdQl"
+    >
+      <b>
+        tiempo total:
+      </b>
+       
+      NaN
+       min.
+    </span>
+  </div>
+</div>
+`;

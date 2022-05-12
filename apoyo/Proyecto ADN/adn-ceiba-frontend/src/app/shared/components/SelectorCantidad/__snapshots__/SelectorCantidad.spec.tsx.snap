@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SelectorCantidad test should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-AxjAm gMyFWH"
+  >
+    <div
+      class="sc-AxirZ bgRPfF"
+    >
+      ➖
+    </div>
+    <div
+      class="sc-AxiKw gKfOXm"
+    >
+      1
+    </div>
+    <div
+      class="sc-AxirZ bgRPfF"
+    >
+      ➕
+    </div>
+  </div>
+</div>
+`;

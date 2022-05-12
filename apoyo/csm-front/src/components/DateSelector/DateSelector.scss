@@ -1,0 +1,50 @@
+@import '../../common/scss/colors';
+
+.DateSelector {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    
+    &__monthButton, &__weekButton, &__todayButton {
+        height: 25px;
+        font-family: londrinaSolidRegular;
+        font-size: 12px;
+        line-height: 12px;
+        letter-spacing: 0.5px;
+        margin-right: 3px;
+        padding: 3px;     
+        background: $golden-poppy;
+        border: $golden-dark 2px inset;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+
+    &__pickerContainer {
+        display: flex;
+        align-items: center;
+
+        .react-datepicker-wrapper {
+            margin: 5px;
+            input {
+                font-family: londrinaSolidLight;
+                max-width: 80px;
+                text-align: center;
+                border: none;
+                border-radius: 5px;
+                padding: 5px;
+                background: rgba(3,3,3,.6);
+                color: $golden-dark;
+                box-shadow: $golden-dark 0 0 7px;
+
+                &:focus {
+                    color: $golden-poppy;
+                    box-shadow: $golden-poppy 0 0 10px;
+                }
+
+                &:focus-visible {
+                    outline: none;
+                }
+            }
+        }
+    }
+}

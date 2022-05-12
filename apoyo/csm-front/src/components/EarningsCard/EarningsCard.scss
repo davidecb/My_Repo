@@ -1,0 +1,324 @@
+@import '../../common/scss/colors';
+
+.earningsCard {
+    width: 100%;
+    border: 3px groove $golden-dark;
+    background: $background;
+    border-radius: 7px;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    margin: 5px;
+
+    .overview {
+        display: flex;
+
+        &__id {
+            border: 2px outset $golden-dark;
+            margin: 3px; 
+            padding: 5px;
+            border-radius: 5px;
+            width: 20%;
+            display: flex;
+            flex-direction: column;
+        }
+
+        &__values {
+            margin: 1px;
+            border-radius: 5px;
+            width: 50%;        
+            display: flex;        
+        } 
+
+        &__reports {
+            margin: 1px;
+            border-radius: 5px;
+            width: 30%;        
+            display: flex; 
+        }
+    }
+
+    .platforms {
+        margin: 3px;
+        font-family: londrinaSolidRegular;        
+        color: $golden-dark;
+
+        .totals {
+            padding: 5px;
+            margin: 3px;
+            border: 2px outset $golden-dark;
+            border-radius: 5px;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+
+            &__title {                
+                width: 20%;  
+            }
+
+            &__child {
+                border: 2px outset $golden-dark;
+                border-radius: 5px;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: space-between;
+                font-size: x-large;
+                width: 15%;
+                height: auto;
+            }
+        }
+    }
+
+    .earnId {
+        
+        cursor: pointer;
+        &__name {
+            font-family: londrinaSolidRegular;
+            font-size: xx-large;
+            color: $golden-dark;
+            align-self: center;
+        }
+
+        &__locationIcon {
+            color: $golden-dark;
+            height: 20px;
+            width: 20px;
+        }
+
+        &__infoIcon {
+            color: $golden-dark;
+            height: 17px;
+            width: 17px;
+        }
+
+        &__locationContainer {
+            display: flex;
+            justify-content: center;
+        }
+
+        &__infoContainer {
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+
+            &__child {
+                display: flex;
+                align-items: center;
+            }
+        }
+        
+        &__location {
+            font-family: londrinaSolidRegular;
+            font-size: large;
+            color: $golden-dark;
+            margin-left: 5px;
+        }
+        
+        &__team {
+            font-family: londrinaSolidRegular;
+            font-size: large;
+            color: $golden-dark;        
+            margin-left: 5px;
+        }
+        
+        &__room {
+            font-family: londrinaSolidRegular;
+            font-size: large;
+            color: $golden-dark;
+            margin-left: 5px;
+        }
+        
+        &__modelShift {
+            font-family: londrinaSolidRegular;
+            font-size: large;
+            color: $golden-dark;
+        }
+
+        .platformsContainer {
+            display: flex;
+            align-self: flex-end;
+            
+            &__logo {
+                border: 2px outset $golden-dark;
+                border-radius: 100%;
+                padding: 1px;
+                margin: 2px;
+            }
+        }
+    }
+
+    .profits {
+        border: 2px outset $golden-dark; 
+        border-radius: 5px;
+        margin: 2px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 50%;
+        cursor: pointer;
+
+        &__profitText {
+            font-family: londrinaSolidRegular;
+            font-size: 35px;
+            color: $golden-dark;
+            align-self: flex-end;
+            margin: 5px;
+        }   
+    }
+
+    .times {
+        border: 2px outset $golden-dark; 
+        border-radius: 5px;
+        margin: 2px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 50%;
+        cursor: pointer;
+
+        &__freeTime, &__payedTime {
+            font-family: londrinaSolidRegular;
+            font-size: large;
+            color: $golden-dark;
+            align-self: flex-end;
+            margin-right: 8px;
+        }
+        
+        &__totalTime, &__engagement {
+            font-family: londrinaSolidRegular;
+            font-size: x-large;
+            color: $golden-dark;
+            align-self: flex-end;
+            margin-right: 5px;
+        }
+    }
+
+    .iconContainer {
+        background: $golden-dark2;
+        border-radius: 3px;
+        justify-self: flex-start;
+        margin: 1.5px;
+        text-align: center;
+        padding: 2px;
+        padding-bottom: 0;
+
+        &__icon {
+            width: 20px;
+            height: 20px;
+            color: $golden-poppy;
+        }
+    }
+
+    .earndReports {
+        display: flex;        
+        margin: 3px;
+        
+        &__timeFlag {
+            border: 3px solid $green-dark;
+            background: $basic-green; 
+            border-radius: 5px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            width: 50%;
+            cursor: pointer;
+
+            &--redFlag {
+                border: 3px solid $red-dark;
+                background: $basic-red;
+            }
+        }
+        
+        &__notes {
+            border: 2px outset $golden-dark; 
+            border-radius: 5px;
+            margin-right: 5px;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start; 
+            width: 50%;
+            cursor: pointer;
+        }
+
+    }
+
+    .timeFlag {
+
+        &__flagPercent {
+            font-family: londrinaSolidRegular;
+            font-size: 35px;
+            color: $green-dark;
+            align-self: center;
+            
+            &--redFlag {
+                color: $red-dark;
+            }
+        }
+
+        &__workingHours {
+            font-family: londrinaSolidRegular;
+            font-size: 16px;
+            color: $green-dark;
+            align-self: center;
+            
+            &--redFlag {
+                color: $red-dark;
+            }
+        }
+
+        &__textContainer {
+            text-align: center;
+        }
+    }
+
+    .flagContainer {
+        display: flex;
+        justify-content: center;
+
+        &__icon{
+            align-self: center;
+            color: $green-dark;
+            height: 50px;
+            width: 50px;
+
+            &--redFlag {
+                align-self: center;
+                color: $red-dark;
+                height: 50px;
+                width: 50px;
+            }
+        }
+    } 
+
+    .notesListContainer {
+        overflow: hidden;
+
+        &__notesList {
+            list-style: inside;
+            margin: 4px;
+            font-family: londrinaSolidLight;
+            font-size: medium;
+            color: $golden-dark;
+        }
+
+        &__noNotes{
+            margin: 4px;
+            font-family: londrinaSolidRegular;
+            font-size: medium;
+            color: $golden-dark;
+        }
+
+    }
+
+    .notesIcon {    
+        display: flex;
+        justify-content: center;
+
+        &__icon{
+            align-self: center;
+            height: 20px;
+            width: 20px;
+        }
+    }
+}

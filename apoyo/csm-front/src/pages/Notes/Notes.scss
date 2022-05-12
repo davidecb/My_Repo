@@ -1,0 +1,218 @@
+@import '../../common/scss/colors';
+
+.notesModule{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: flex-start;
+    align-content: center;
+    background: black;    
+
+    &__viewer {         
+        display: flex;
+        justify-content: space-around;
+        height: 100%;
+        padding: 0 5px 5px 5px;
+
+        .calendar {
+            background-color: $golden-poppy;
+            border-radius: 5px;
+            border: $golden-dark groove 2px;
+            display: flex;          
+            flex-flow: column wrap;
+            width: 100%;
+            height: 100%;
+            font-size: 15px;
+            font-family: londrinaSolidBlack;   
+            letter-spacing: 2px;
+            color: $basic-blue;
+
+            &__monthHeader, &__daysOfWeek {
+                width: 100%;
+                height: 5%;
+                display: flex;
+                justify-content: space-between;
+                text-align: center;
+                font-size: 25px;
+            }
+
+            .dayOfWeek {
+                width: 14%;
+            }
+
+            .monthHeader {
+                justify-content: center;
+
+                &__actualMonth {
+                    width: 50%;
+                }
+
+                &__iconMonth {
+                    width: 22px;
+                    color: $basic-blue ;
+                    cursor: pointer;
+                }
+            }
+
+            .notesWall {
+                width: 100%;
+                flex: 1 0 auto;
+                display: flex;
+                flex-direction: column;
+
+                &__week {
+                    width: 100%;
+                    flex: 1 0 auto;
+                    display: flex;
+                    justify-content: space-between;
+                    text-align: center;
+                    font-size: 14px;
+                }
+
+                &__day {
+                    width: 14%;
+                    border-radius: 5px;
+                    border: $golden-dark outset 1.5px;
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: flex-end;
+                    align-items: flex-end;
+                }
+            }
+        }
+
+        
+    }
+
+    .viewer {
+
+        .NewNoteContainer {
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.96);
+            position: fixed;
+            z-index: 1000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            .editor {
+
+                background: black;
+                border-radius: 8px;
+                box-shadow: 2px 2px 5px $golden-dark;
+                margin-bottom: 10%;
+                padding: 15px;       
+                height: 60%;
+                width: 30%;
+                max-width: 330px;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                transition: all 0.6s ease-out;
+                
+                &:hover {
+                    border: $golden-poppy groove 2px;
+                    box-shadow: 2px 2px 7px $golden-dark;
+                    transition: all 0.6s ease-in;
+                }
+
+                .option {
+                    background: $background;
+                }
+        
+                &__title {
+                    font-size: 30px;
+                    font-family: londrinaSolidBlack;   
+                    letter-spacing: 2px;     
+                    color: $golden-poppy;
+                    align-self: center;
+                    margin: 5px;
+                }
+        
+                &__date {
+                    font-size: 12px;
+                    font-family: londrinaSolidLight;   
+                    letter-spacing: 2px;     
+                    color: $golden-poppy;
+                    align-self: center;
+                    margin: 5px;
+                }
+        
+                &__noteForm {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: space-around;            
+                }
+        
+                &__modelSelect, &__noteTypeSelect {
+                    margin: 10px;
+                    padding: 5px;
+                    font-family: londrinaSolidRegular;
+                    font-size: 17px; 
+                    width: 70%;
+                    background: none;
+                    color: $golden-dark;
+                    border: none;
+                    border-radius: 5px;
+                    box-shadow: 2px 2px 5px $golden-dark ;
+        
+                    &:hover {
+                        box-shadow: 2px 2px 9px $golden-poppy ;
+                        color: $golden-poppy;
+                        transition: all 0.1s ease;
+                    }
+                }
+                
+                &__noteTextarea {
+                    margin: 10px;
+                    padding: 5px;
+                    width: 70%;
+                    font-family: londrinaSolidLight;
+                    font-size: 14px; 
+                    background: none;
+                    color: $golden-dark;
+                    border: none;
+                    border-radius: 5px;
+                    box-shadow: 2px 2px 5px $golden-dark ; 
+        
+                    &:hover {
+                        box-shadow: 2px 2px 9px $golden-poppy ;
+                        color: $golden-poppy;
+                        transition: all 0.1s ease;
+                    }
+                }
+
+                &__buttonContainer {
+                    display: flex;
+                }
+                
+                &__createButton, &__cancelButton {
+                    margin: 10px;
+                    padding: 5px;
+                    font-family: londrinaSolidBlack; 
+                    font-size: 18px; 
+                    background: $golden-poppy;
+                    border: $golden-dark 2px inset;
+                    border-radius: 10px;
+                    cursor: pointer;
+        
+                    &:hover {
+                        margin: 8px;
+                        font-size: 21px;
+                        transition: all 0.05s ease;
+                    }
+                }
+
+                &__cancelButton {
+                    background: red;
+                    border: red 2px inset;
+                }
+            }
+        }
+    }
+
+    
+}

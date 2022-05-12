@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FormSolicitarPedido test should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-AxjAm blJZmq"
+  >
+    <span
+      class="sc-AxirZ gMixma"
+    >
+      ❌
+    </span>
+    <form
+      class="sc-AxhCb hfihwF"
+    >
+      <h2>
+        Solicitar Pedido
+      </h2>
+      <input
+        class="sc-AxheI jTlRRa"
+        name="direccion"
+        placeholder="direccion"
+        value=""
+      />
+      <input
+        class="sc-AxheI jTlRRa"
+        name="cliente"
+        placeholder="cliente"
+        value=""
+      />
+      <button
+        class="sc-AxgMl cMdgkA"
+        type="submit"
+      >
+        <span>
+          Realizar Pedido
+        </span>
+      </button>
+    </form>
+  </div>
+</div>
+`;

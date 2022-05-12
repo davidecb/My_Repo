@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GestionProductos Test should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-AxjAm ksvFFx"
+  >
+    <div
+      class="sc-AxirZ kyZbHD"
+    >
+      <div
+        class="sc-AxiKw criakI"
+      >
+        <div
+          class="sc-fznZeY cdcxdV"
+        >
+          <img
+            class="sc-fzoyAV eCjpTu"
+            src="imagen.jpg"
+          />
+          <div
+            class="sc-fzokOt fANgZZ"
+          >
+            producto testing
+          </div>
+          <div
+            class="sc-fzqBZW jgVgAb"
+          >
+            $ 
+            10000
+          </div>
+          <div
+            class="sc-fzqNJr dXerrS"
+          >
+            30
+             min.
+          </div>
+          <button
+            class="sc-fzoLsD iJrvBj"
+          >
+            <span>
+              personalizar
+            </span>
+          </button>
+        </div>
+        <div
+          class="sc-fznZeY cdcxdV"
+        >
+          <img
+            class="sc-fzoyAV eCjpTu"
+            src="imagen2.jpg"
+          />
+          <div
+            class="sc-fzokOt fANgZZ"
+          >
+            producto testing 2
+          </div>
+          <div
+            class="sc-fzqBZW jgVgAb"
+          >
+            $ 
+            20000
+          </div>
+          <div
+            class="sc-fzqNJr dXerrS"
+          >
+            60
+             min.
+          </div>
+          <button
+            class="sc-fzoLsD iJrvBj"
+          >
+            <span>
+              personalizar
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

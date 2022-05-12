@@ -1,0 +1,41 @@
+@import '../../common/scss/colors';
+
+.notesCard {
+    border: 3px groove $golden-dark;
+    background: $golden-poppy;
+    border-radius: 7px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+
+    &__modelName {
+        font-family: londrinaSolidRegular;
+        font-size: x-large;
+        color: $golden-dark;
+        margin: 0;
+        padding: 0;
+    }
+
+    &__date {
+        font-family: londrinaSolidLight;
+        font-size: small;
+        color: $golden-dark;
+        letter-spacing: 1px;
+        align-self: flex-end;
+        margin-bottom: 5px;
+    }
+
+    &__note {
+        font-family: londrinaSolidRegular;
+        font-size: 15px;
+        background: none;
+        border-radius: 5px;
+        border: 3px inset $golden-dark;
+        color: $golden-dark;
+        width: 95%;
+        padding: 3px;
+        align-self: center;
+    }
+}

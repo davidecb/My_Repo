@@ -1,0 +1,13 @@
+{
+  "type": "postgres",
+  "username": "testing",
+  "password": "123456",
+  "host": "localhost",
+  "port": 5445,
+  "database": "adn-testing",
+  "entities": ["dist/**/*.entidad{.ts,.js}"],
+  "migrations": ["dist/infraestructura/migraciones/*.js"],
+  "cli": {
+    "migrationsDir": "src/infraestructura/migraciones"
+  }
+}

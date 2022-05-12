@@ -1,0 +1,1803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1642476168599" clover="3.2.0">
+  <project timestamp="1642476168599" name="All files">
+    <metrics statements="1155" coveredstatements="1114" conditionals="219" coveredconditionals="154" methods="259" coveredmethods="241" elements="1633" coveredelements="1509" complexity="0" loc="1155" ncloc="1155" packages="87" files="127" classes="127"/>
+    <package name="dist.infraestructura.migraciones">
+      <metrics statements="26" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="2"/>
+      <file name="1640715600437-MigracionTesting.js" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\dist\infraestructura\migraciones\1640715600437-MigracionTesting.js">
+        <metrics statements="19" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+      </file>
+      <file name="1642024392178-MigracionTesting.js" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\dist\infraestructura\migraciones\1642024392178-MigracionTesting.js">
+        <metrics statements="7" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="dist.infraestructura.pedido.entidad">
+      <metrics statements="24" coveredstatements="23" conditionals="29" coveredconditionals="17" methods="4" coveredmethods="4"/>
+      <file name="pedido.entidad.js" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\dist\infraestructura\pedido\entidad\pedido.entidad.js">
+        <metrics statements="24" coveredstatements="23" conditionals="29" coveredconditionals="17" methods="4" coveredmethods="4"/>
+        <line num="2" count="5" type="cond" truecount="3" falsecount="0"/>
+        <line num="3" count="55" type="cond" truecount="3" falsecount="1"/>
+        <line num="4" count="55" type="cond" truecount="3" falsecount="1"/>
+        <line num="5" count="0" type="cond" truecount="0" falsecount="8"/>
+        <line num="6" count="55" type="cond" truecount="2" falsecount="1"/>
+        <line num="8" count="5" type="cond" truecount="3" falsecount="0"/>
+        <line num="9" count="50" type="cond" truecount="3" falsecount="1"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="24" count="5" type="stmt"/>
+        <line num="25" count="5" type="stmt"/>
+        <line num="33" count="5" type="stmt"/>
+        <line num="37" count="5" type="stmt"/>
+        <line num="41" count="5" type="stmt"/>
+        <line num="45" count="5" type="stmt"/>
+        <line num="49" count="5" type="stmt"/>
+        <line num="53" count="5" type="stmt"/>
+        <line num="57" count="5" type="stmt"/>
+        <line num="61" count="5" type="stmt"/>
+        <line num="64" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="dist.infraestructura.producto-solicitado.entidad">
+      <metrics statements="24" coveredstatements="23" conditionals="29" coveredconditionals="17" methods="4" coveredmethods="4"/>
+      <file name="producto-solicitado.entidad.js" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\dist\infraestructura\producto-solicitado\entidad\producto-solicitado.entidad.js">
+        <metrics statements="24" coveredstatements="23" conditionals="29" coveredconditionals="17" methods="4" coveredmethods="4"/>
+        <line num="2" count="5" type="cond" truecount="3" falsecount="0"/>
+        <line num="3" count="55" type="cond" truecount="3" falsecount="1"/>
+        <line num="4" count="55" type="cond" truecount="3" falsecount="1"/>
+        <line num="5" count="0" type="cond" truecount="0" falsecount="8"/>
+        <line num="6" count="55" type="cond" truecount="2" falsecount="1"/>
+        <line num="8" count="5" type="cond" truecount="3" falsecount="0"/>
+        <line num="9" count="50" type="cond" truecount="3" falsecount="1"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+        <line num="32" count="5" type="stmt"/>
+        <line num="36" count="5" type="stmt"/>
+        <line num="40" count="5" type="stmt"/>
+        <line num="44" count="5" type="stmt"/>
+        <line num="48" count="5" type="stmt"/>
+        <line num="52" count="5" type="stmt"/>
+        <line num="56" count="5" type="stmt"/>
+        <line num="60" count="5" type="stmt"/>
+        <line num="63" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="dist.infraestructura.producto.entidad">
+      <metrics statements="19" coveredstatements="18" conditionals="29" coveredconditionals="17" methods="2" coveredmethods="2"/>
+      <file name="producto.entidad.js" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\dist\infraestructura\producto\entidad\producto.entidad.js">
+        <metrics statements="19" coveredstatements="18" conditionals="29" coveredconditionals="17" methods="2" coveredmethods="2"/>
+        <line num="2" count="5" type="cond" truecount="3" falsecount="0"/>
+        <line num="3" count="40" type="cond" truecount="3" falsecount="1"/>
+        <line num="4" count="40" type="cond" truecount="3" falsecount="1"/>
+        <line num="5" count="0" type="cond" truecount="0" falsecount="8"/>
+        <line num="6" count="40" type="cond" truecount="2" falsecount="1"/>
+        <line num="8" count="5" type="cond" truecount="3" falsecount="0"/>
+        <line num="9" count="35" type="cond" truecount="3" falsecount="1"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="19" count="5" type="stmt"/>
+        <line num="23" count="5" type="stmt"/>
+        <line num="27" count="5" type="stmt"/>
+        <line num="31" count="5" type="stmt"/>
+        <line num="35" count="5" type="stmt"/>
+        <line num="39" count="5" type="stmt"/>
+        <line num="43" count="5" type="stmt"/>
+        <line num="46" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="dist.infraestructura.productos-por-pedido.entidad">
+      <metrics statements="22" coveredstatements="21" conditionals="29" coveredconditionals="17" methods="5" coveredmethods="5"/>
+      <file name="productos-por-pedido.entidad.js" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\dist\infraestructura\productos-por-pedido\entidad\productos-por-pedido.entidad.js">
+        <metrics statements="22" coveredstatements="21" conditionals="29" coveredconditionals="17" methods="5" coveredmethods="5"/>
+        <line num="2" count="5" type="cond" truecount="3" falsecount="0"/>
+        <line num="3" count="35" type="cond" truecount="3" falsecount="1"/>
+        <line num="4" count="35" type="cond" truecount="3" falsecount="1"/>
+        <line num="5" count="0" type="cond" truecount="0" falsecount="8"/>
+        <line num="6" count="35" type="cond" truecount="2" falsecount="1"/>
+        <line num="8" count="5" type="cond" truecount="3" falsecount="0"/>
+        <line num="9" count="30" type="cond" truecount="3" falsecount="1"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+        <line num="29" count="5" type="stmt"/>
+        <line num="37" count="5" type="stmt"/>
+        <line num="41" count="5" type="stmt"/>
+        <line num="45" count="5" type="stmt"/>
+        <line num="49" count="5" type="stmt"/>
+        <line num="52" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="dist.infraestructura.usuario.entidad">
+      <metrics statements="17" coveredstatements="16" conditionals="29" coveredconditionals="17" methods="2" coveredmethods="2"/>
+      <file name="usuario.entidad.js" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\dist\infraestructura\usuario\entidad\usuario.entidad.js">
+        <metrics statements="17" coveredstatements="16" conditionals="29" coveredconditionals="17" methods="2" coveredmethods="2"/>
+        <line num="2" count="5" type="cond" truecount="3" falsecount="0"/>
+        <line num="3" count="30" type="cond" truecount="3" falsecount="1"/>
+        <line num="4" count="30" type="cond" truecount="3" falsecount="1"/>
+        <line num="5" count="0" type="cond" truecount="0" falsecount="8"/>
+        <line num="6" count="30" type="cond" truecount="2" falsecount="1"/>
+        <line num="8" count="5" type="cond" truecount="3" falsecount="0"/>
+        <line num="9" count="25" type="cond" truecount="3" falsecount="1"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="19" count="5" type="stmt"/>
+        <line num="23" count="5" type="stmt"/>
+        <line num="27" count="5" type="stmt"/>
+        <line num="31" count="5" type="stmt"/>
+        <line num="35" count="5" type="stmt"/>
+        <line num="38" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="app.module.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\app.module.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.aplicacion.pedido.comando">
+      <metrics statements="29" coveredstatements="29" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <file name="eliminar-pedido.manejador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\pedido\comando\eliminar-pedido.manejador.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+      </file>
+      <file name="modificar-pedido.manejador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\pedido\comando\modificar-pedido.manejador.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+      </file>
+      <file name="registar-pedido.manejador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\pedido\comando\registar-pedido.manejador.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+      </file>
+      <file name="registrar-pedido.comando.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\pedido\comando\registrar-pedido.comando.ts">
+        <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="29" count="5" type="stmt"/>
+        <line num="32" count="5" type="stmt"/>
+        <line num="35" count="5" type="stmt"/>
+        <line num="38" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.aplicacion.pedido.consulta">
+      <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7"/>
+      <file name="listar-pedidos.manejador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\pedido\consulta\listar-pedidos.manejador.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+      <file name="obtener-pedido.manejador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\pedido\consulta\obtener-pedido.manejador.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="obtener-pedidos-por-estado.manejador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\pedido\consulta\obtener-pedidos-por-estado.manejador.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.aplicacion.producto-solicitado.comando">
+      <metrics statements="29" coveredstatements="29" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="eliminar-producto-solicitado.manejador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\producto-solicitado\comando\eliminar-producto-solicitado.manejador.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+      </file>
+      <file name="registar-producto-solicitado.manejador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\producto-solicitado\comando\registar-producto-solicitado.manejador.ts">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+      </file>
+      <file name="registrar-producto-solicitado.comando.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\producto-solicitado\comando\registrar-producto-solicitado.comando.ts">
+        <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+        <line num="32" count="5" type="stmt"/>
+        <line num="35" count="5" type="stmt"/>
+        <line num="38" count="5" type="stmt"/>
+        <line num="41" count="5" type="stmt"/>
+        <line num="44" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.aplicacion.producto-solicitado.consulta">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="listar-productos-solicitados.manejador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\producto-solicitado\consulta\listar-productos-solicitados.manejador.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="obtener-producto-solicitado.manejador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\producto-solicitado\consulta\obtener-producto-solicitado.manejador.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.aplicacion.producto.comando">
+      <metrics statements="26" coveredstatements="26" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <file name="eliminar-producto.manejador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\producto\comando\eliminar-producto.manejador.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="6" type="stmt"/>
+      </file>
+      <file name="modificar-producto.manejador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\producto\comando\modificar-producto.manejador.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+      </file>
+      <file name="registar-producto.manejador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\producto\comando\registar-producto.manejador.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="11" count="7" type="stmt"/>
+      </file>
+      <file name="registrar-producto.comando.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\producto\comando\registrar-producto.comando.ts">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+        <line num="25" count="5" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.aplicacion.producto.consulta">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="listar-productos.manejador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\producto\consulta\listar-productos.manejador.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+      </file>
+      <file name="obtener-producto.manejador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\producto\consulta\obtener-producto.manejador.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.aplicacion.productos-por-pedido.comando">
+      <metrics statements="31" coveredstatements="31" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <file name="eliminar-productos-por-pedido.manejador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\productos-por-pedido\comando\eliminar-productos-por-pedido.manejador.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+      </file>
+      <file name="modificar-productos-por-pedido.manejador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\productos-por-pedido\comando\modificar-productos-por-pedido.manejador.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+      </file>
+      <file name="registar-productos-por-pedido.manejador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\productos-por-pedido\comando\registar-productos-por-pedido.manejador.ts">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+      </file>
+      <file name="registrar-productos-por-pedido.comando.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\productos-por-pedido\comando\registrar-productos-por-pedido.comando.ts">
+        <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="24" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.aplicacion.productos-por-pedido.consulta">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="listar-productos-por-pedido.manejador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\productos-por-pedido\consulta\listar-productos-por-pedido.manejador.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="obtener-producto-por-pedido.manejador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\productos-por-pedido\consulta\obtener-producto-por-pedido.manejador.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.aplicacion.usuario.comando">
+      <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="eliminar-usuario.manejador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\usuario\comando\eliminar-usuario.manejador.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+      </file>
+      <file name="registar-usuario.manejador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\usuario\comando\registar-usuario.manejador.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+      </file>
+      <file name="registrar-usuario.comando.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\usuario\comando\registrar-usuario.comando.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.aplicacion.usuario.consulta">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="listar-usuarios.manejador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\aplicacion\usuario\consulta\listar-usuarios.manejador.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.dominio.errores">
+      <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <file name="error-de-negocio.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\errores\error-de-negocio.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="22" type="stmt"/>
+        <line num="3" count="42" type="stmt"/>
+        <line num="4" count="42" type="cond" truecount="2" falsecount="0"/>
+      </file>
+      <file name="error-imagen-invalida.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\errores\error-imagen-invalida.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="12" type="stmt"/>
+        <line num="3" count="12" type="stmt"/>
+        <line num="5" count="7" type="stmt"/>
+      </file>
+      <file name="error-longitud-invalida.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\errores\error-longitud-invalida.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="7" type="stmt"/>
+        <line num="3" count="7" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+      </file>
+      <file name="error-propiedades-faltantes.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\errores\error-propiedades-faltantes.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="10" type="stmt"/>
+        <line num="3" count="10" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.dominio.pedido.modelo">
+      <metrics statements="43" coveredstatements="41" conditionals="2" coveredconditionals="1" methods="15" coveredmethods="13"/>
+      <file name="pedido.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\pedido\modelo\pedido.ts">
+        <metrics statements="43" coveredstatements="41" conditionals="2" coveredconditionals="1" methods="15" coveredmethods="13"/>
+        <line num="2" count="10" type="stmt"/>
+        <line num="3" count="12" type="stmt"/>
+        <line num="4" count="12" type="stmt"/>
+        <line num="5" count="12" type="stmt"/>
+        <line num="6" count="12" type="stmt"/>
+        <line num="7" count="12" type="stmt"/>
+        <line num="8" count="12" type="stmt"/>
+        <line num="9" count="12" type="stmt"/>
+        <line num="10" count="12" type="stmt"/>
+        <line num="11" count="12" type="stmt"/>
+        <line num="12" count="12" type="stmt"/>
+        <line num="26" count="12" type="stmt"/>
+        <line num="27" count="12" type="stmt"/>
+        <line num="28" count="12" type="stmt"/>
+        <line num="29" count="12" type="stmt"/>
+        <line num="30" count="12" type="stmt"/>
+        <line num="31" count="12" type="stmt"/>
+        <line num="32" count="12" type="stmt"/>
+        <line num="33" count="12" type="stmt"/>
+        <line num="34" count="12" type="stmt"/>
+        <line num="35" count="12" type="stmt"/>
+        <line num="39" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="40" count="8" type="stmt"/>
+        <line num="41" count="8" type="stmt"/>
+        <line num="43" count="8" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="50" count="8" type="stmt"/>
+        <line num="51" count="8" type="stmt"/>
+        <line num="55" count="6" type="stmt"/>
+        <line num="59" count="12" type="stmt"/>
+        <line num="63" count="4" type="stmt"/>
+        <line num="67" count="4" type="stmt"/>
+        <line num="71" count="4" type="stmt"/>
+        <line num="75" count="4" type="stmt"/>
+        <line num="79" count="8" type="stmt"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="87" count="8" type="stmt"/>
+        <line num="91" count="0" type="stmt"/>
+        <line num="95" count="1" type="stmt"/>
+        <line num="99" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.dominio.pedido.puerto.dao">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="dao-pedido.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\pedido\puerto\dao\dao-pedido.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.dominio.pedido.puerto.repositorio">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="repositorio-pedido.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\pedido\puerto\repositorio\repositorio-pedido.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.dominio.pedido.servicio">
+      <metrics statements="21" coveredstatements="21" conditionals="8" coveredconditionals="8" methods="6" coveredmethods="6"/>
+      <file name="servicio-eliminar-pedido.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\pedido\servicio\servicio-eliminar-pedido.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="10" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+      </file>
+      <file name="servicio-modificar-pedido.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\pedido\servicio\servicio-modificar-pedido.ts">
+        <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="6" count="8" type="stmt"/>
+        <line num="10" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="16" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+      </file>
+      <file name="servicio-registrar-pedido.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\pedido\servicio\servicio-registrar-pedido.ts">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="7" count="7" type="stmt"/>
+        <line num="11" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.dominio.producto-solicitado.modelo">
+      <metrics statements="82" coveredstatements="78" conditionals="20" coveredconditionals="19" methods="15" coveredmethods="13"/>
+      <file name="producto-solicitado.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\producto-solicitado\modelo\producto-solicitado.ts">
+        <metrics statements="82" coveredstatements="78" conditionals="20" coveredconditionals="19" methods="15" coveredmethods="13"/>
+        <line num="2" count="10" type="stmt"/>
+        <line num="4" count="10" type="stmt"/>
+        <line num="5" count="10" type="stmt"/>
+        <line num="6" count="15" type="stmt"/>
+        <line num="7" count="15" type="stmt"/>
+        <line num="8" count="15" type="stmt"/>
+        <line num="9" count="15" type="stmt"/>
+        <line num="10" count="15" type="stmt"/>
+        <line num="11" count="15" type="stmt"/>
+        <line num="12" count="15" type="stmt"/>
+        <line num="13" count="15" type="stmt"/>
+        <line num="14" count="15" type="stmt"/>
+        <line num="15" count="15" type="stmt"/>
+        <line num="29" count="15" type="stmt"/>
+        <line num="30" count="12" type="stmt"/>
+        <line num="31" count="12" type="stmt"/>
+        <line num="32" count="12" type="stmt"/>
+        <line num="33" count="12" type="stmt"/>
+        <line num="34" count="12" type="stmt"/>
+        <line num="35" count="12" type="stmt"/>
+        <line num="36" count="12" type="stmt"/>
+        <line num="37" count="12" type="stmt"/>
+        <line num="38" count="12" type="stmt"/>
+        <line num="39" count="12" type="stmt"/>
+        <line num="43" count="15" type="cond" truecount="2" falsecount="0"/>
+        <line num="49" count="3" type="stmt"/>
+        <line num="57" count="6" type="stmt"/>
+        <line num="58" count="6" type="stmt"/>
+        <line num="59" count="6" type="stmt"/>
+        <line num="60" count="6" type="stmt"/>
+        <line num="61" count="6" type="stmt"/>
+        <line num="63" count="6" type="stmt"/>
+        <line num="64" count="6" type="stmt"/>
+        <line num="65" count="6" type="stmt"/>
+        <line num="66" count="6" type="stmt"/>
+        <line num="67" count="6" type="stmt"/>
+        <line num="68" count="6" type="stmt"/>
+        <line num="69" count="6" type="stmt"/>
+        <line num="70" count="6" type="stmt"/>
+        <line num="71" count="6" type="stmt"/>
+        <line num="72" count="6" type="stmt"/>
+        <line num="73" count="6" type="stmt"/>
+        <line num="74" count="6" type="stmt"/>
+        <line num="75" count="6" type="stmt"/>
+        <line num="76" count="6" type="stmt"/>
+        <line num="77" count="6" type="stmt"/>
+        <line num="79" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="80" count="4" type="stmt"/>
+        <line num="81" count="4" type="stmt"/>
+        <line num="83" count="6" type="stmt"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="89" count="2" type="stmt"/>
+        <line num="90" count="2" type="stmt"/>
+        <line num="93" count="2" type="stmt"/>
+        <line num="94" count="2" type="stmt"/>
+        <line num="97" count="2" type="stmt"/>
+        <line num="99" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="100" count="3" type="stmt"/>
+        <line num="101" count="3" type="stmt"/>
+        <line num="103" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="104" count="1" type="stmt"/>
+        <line num="105" count="1" type="stmt"/>
+        <line num="107" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="108" count="3" type="stmt"/>
+        <line num="109" count="3" type="stmt"/>
+        <line num="111" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="112" count="1" type="stmt"/>
+        <line num="115" count="6" type="stmt"/>
+        <line num="116" count="6" type="stmt"/>
+        <line num="121" count="15" type="stmt"/>
+        <line num="125" count="4" type="stmt"/>
+        <line num="129" count="5" type="stmt"/>
+        <line num="133" count="5" type="stmt"/>
+        <line num="137" count="5" type="stmt"/>
+        <line num="141" count="5" type="stmt"/>
+        <line num="145" count="7" type="stmt"/>
+        <line num="149" count="0" type="stmt"/>
+        <line num="153" count="7" type="stmt"/>
+        <line num="157" count="0" type="stmt"/>
+        <line num="161" count="1" type="stmt"/>
+        <line num="165" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.dominio.producto-solicitado.puerto.dao">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="dao-producto-solicitado.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\producto-solicitado\puerto\dao\dao-producto-solicitado.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.dominio.producto-solicitado.puerto.repositorio">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="repositorio-producto-solicitado.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\producto-solicitado\puerto\repositorio\repositorio-producto-solicitado.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.dominio.producto-solicitado.servicio">
+      <metrics statements="12" coveredstatements="12" conditionals="6" coveredconditionals="6" methods="4" coveredmethods="4"/>
+      <file name="servicio-eliminar-producto-solicitado.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\producto-solicitado\servicio\servicio-eliminar-producto-solicitado.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="10" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+      </file>
+      <file name="servicio-registrar-producto-solicitado.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\producto-solicitado\servicio\servicio-registrar-producto-solicitado.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="5" count="7" type="stmt"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="10" count="6" type="cond" truecount="4" falsecount="0"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.dominio.producto.modelo">
+      <metrics statements="26" coveredstatements="26" conditionals="8" coveredconditionals="8" methods="9" coveredmethods="9"/>
+      <file name="producto.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\producto\modelo\producto.ts">
+        <metrics statements="26" coveredstatements="26" conditionals="8" coveredconditionals="8" methods="9" coveredmethods="9"/>
+        <line num="1" count="12" type="stmt"/>
+        <line num="2" count="12" type="stmt"/>
+        <line num="3" count="23" type="stmt"/>
+        <line num="4" count="23" type="stmt"/>
+        <line num="5" count="23" type="stmt"/>
+        <line num="6" count="23" type="stmt"/>
+        <line num="7" count="23" type="stmt"/>
+        <line num="8" count="23" type="stmt"/>
+        <line num="9" count="23" type="stmt"/>
+        <line num="12" count="23" type="stmt"/>
+        <line num="13" count="19" type="stmt"/>
+        <line num="14" count="19" type="stmt"/>
+        <line num="15" count="19" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="19" type="stmt"/>
+        <line num="17" count="19" type="stmt"/>
+        <line num="18" count="19" type="stmt"/>
+        <line num="19" count="19" type="stmt"/>
+        <line num="23" count="23" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="4" type="stmt"/>
+        <line num="36" count="4" type="stmt"/>
+        <line num="40" count="17" type="stmt"/>
+        <line num="44" count="7" type="stmt"/>
+        <line num="48" count="13" type="stmt"/>
+        <line num="52" count="13" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.dominio.producto.puerto.dao">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="dao-producto.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\producto\puerto\dao\dao-producto.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.dominio.producto.puerto.repositorio">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="repositorio-producto.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\producto\puerto\repositorio\repositorio-producto.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.dominio.producto.servicio">
+      <metrics statements="20" coveredstatements="20" conditionals="8" coveredconditionals="8" methods="6" coveredmethods="6"/>
+      <file name="servicio-eliminar-producto.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\producto\servicio\servicio-eliminar-producto.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="10" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="15" count="6" type="stmt"/>
+      </file>
+      <file name="servicio-modificar-producto.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\producto\servicio\servicio-modificar-producto.ts">
+        <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="6" count="8" type="stmt"/>
+        <line num="10" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="16" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+      </file>
+      <file name="servicio-registrar-producto.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\producto\servicio\servicio-registrar-producto.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="7" count="7" type="stmt"/>
+        <line num="11" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.dominio.productos-por-pedido.modelo">
+      <metrics statements="20" coveredstatements="20" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+      <file name="productos-por-pedido.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\productos-por-pedido\modelo\productos-por-pedido.ts">
+        <metrics statements="20" coveredstatements="20" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+        <line num="3" count="9" type="stmt"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="6" count="6" type="stmt"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="19" count="6" type="stmt"/>
+        <line num="20" count="6" type="stmt"/>
+        <line num="21" count="6" type="stmt"/>
+        <line num="22" count="6" type="stmt"/>
+        <line num="23" count="6" type="stmt"/>
+        <line num="24" count="6" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="32" count="15" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="40" count="3" type="stmt"/>
+        <line num="44" count="3" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.dominio.productos-por-pedido.puerto.dao">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="dao-productos-por-pedido.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\productos-por-pedido\puerto\dao\dao-productos-por-pedido.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.dominio.productos-por-pedido.puerto.repositorio">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="repositorio-productos-por-pedido.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\productos-por-pedido\puerto\repositorio\repositorio-productos-por-pedido.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.dominio.productos-por-pedido.servicio">
+      <metrics statements="32" coveredstatements="32" conditionals="8" coveredconditionals="7" methods="6" coveredmethods="6"/>
+      <file name="servicio-eliminar-productos-por-pedido.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\productos-por-pedido\servicio\servicio-eliminar-productos-por-pedido.ts">
+        <metrics statements="14" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="8" count="7" type="stmt"/>
+        <line num="9" count="7" type="stmt"/>
+        <line num="13" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+      </file>
+      <file name="servicio-modificar-productos-por-pedido.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\productos-por-pedido\servicio\servicio-modificar-productos-por-pedido.ts">
+        <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="6" count="8" type="stmt"/>
+        <line num="10" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="16" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+      </file>
+      <file name="servicio-registrar-productos-por-pedido.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\productos-por-pedido\servicio\servicio-registrar-productos-por-pedido.ts">
+        <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.dominio.usuario.modelo">
+      <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <file name="usuario.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\usuario\modelo\usuario.ts">
+        <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="1" count="7" type="stmt"/>
+        <line num="3" count="7" type="stmt"/>
+        <line num="4" count="7" type="stmt"/>
+        <line num="5" count="8" type="stmt"/>
+        <line num="6" count="8" type="stmt"/>
+        <line num="9" count="8" type="stmt"/>
+        <line num="10" count="6" type="stmt"/>
+        <line num="11" count="6" type="stmt"/>
+        <line num="15" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="23" count="10" type="stmt"/>
+        <line num="27" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.dominio.usuario.puerto.dao">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="dao-usuario.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\usuario\puerto\dao\dao-usuario.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.dominio.usuario.puerto.repositorio">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="repositorio-usuario.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\usuario\puerto\repositorio\repositorio-usuario.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.dominio.usuario.servicio">
+      <metrics statements="12" coveredstatements="11" conditionals="4" coveredconditionals="3" methods="4" coveredmethods="4"/>
+      <file name="servicio-eliminar-usuario.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\usuario\servicio\servicio-eliminar-usuario.ts">
+        <metrics statements="6" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="10" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+      </file>
+      <file name="servicio-registrar-usuario.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\dominio\usuario\servicio\servicio-registrar-usuario.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="9" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura">
+      <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="infraestructura.module.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\infraestructura.module.ts">
+        <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="37" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.configuracion">
+      <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="ceiba-logger.service.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\configuracion\ceiba-logger.service.ts">
+        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+      </file>
+      <file name="database.config.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\configuracion\database.config.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.configuracion.environment">
+      <metrics statements="17" coveredstatements="17" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <file name="env-node.enum.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\configuracion\environment\env-node.enum.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+      </file>
+      <file name="env-variables.enum.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\configuracion\environment\env-variables.enum.ts">
+        <metrics statements="13" coveredstatements="13" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.pedido">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="pedido.module.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\pedido\pedido.module.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.pedido.adaptador.dao">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="dao-pedido-postgres.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\pedido\adaptador\dao\dao-pedido-postgres.ts">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.pedido.adaptador.repositorio">
+      <metrics statements="25" coveredstatements="25" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9"/>
+      <file name="repositorio-pedido-postgres.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\pedido\adaptador\repositorio\repositorio-pedido-postgres.ts">
+        <metrics statements="25" coveredstatements="25" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="13" count="10" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="20" count="7" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="26" count="4" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="47" count="3" type="stmt"/>
+        <line num="48" count="3" type="stmt"/>
+        <line num="49" count="3" type="stmt"/>
+        <line num="50" count="3" type="stmt"/>
+        <line num="51" count="3" type="stmt"/>
+        <line num="52" count="3" type="stmt"/>
+        <line num="53" count="3" type="stmt"/>
+        <line num="54" count="3" type="stmt"/>
+        <line num="55" count="3" type="stmt"/>
+        <line num="59" count="3" type="stmt"/>
+        <line num="63" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.pedido.controlador">
+      <metrics statements="27" coveredstatements="27" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7"/>
+      <file name="pedido.controlador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\pedido\controlador\pedido.controlador.ts">
+        <metrics statements="27" coveredstatements="27" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="19" count="5" type="stmt"/>
+        <line num="24" count="5" type="stmt"/>
+        <line num="25" count="4" type="stmt"/>
+        <line num="29" count="5" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="34" count="5" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="39" count="5" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="44" count="5" type="stmt"/>
+        <line num="45" count="3" type="stmt"/>
+        <line num="49" count="5" type="stmt"/>
+        <line num="50" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.pedido.entidad">
+      <metrics statements="14" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="pedido.entidad.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\pedido\entidad\pedido.entidad.ts">
+        <metrics statements="14" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="24" count="5" type="stmt"/>
+        <line num="27" count="5" type="stmt"/>
+        <line num="30" count="5" type="stmt"/>
+        <line num="33" count="5" type="stmt"/>
+        <line num="36" count="5" type="stmt"/>
+        <line num="39" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.pedido.proveedor">
+      <metrics statements="20" coveredstatements="20" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="pedido-proveedor.module.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\pedido\proveedor\pedido-proveedor.module.ts">
+        <metrics statements="20" coveredstatements="20" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="19" count="5" type="stmt"/>
+        <line num="50" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.pedido.proveedor.dao">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="dao-pedido.proveedor.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\pedido\proveedor\dao\dao-pedido.proveedor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.pedido.proveedor.repositorio">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="repositorio-pedido.proveedor.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\pedido\proveedor\repositorio\repositorio-pedido.proveedor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.pedido.proveedor.servicio">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="servicio-eliminar-pedido.proveedor.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\pedido\proveedor\servicio\servicio-eliminar-pedido.proveedor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+      </file>
+      <file name="servicio-modificar-pedido.proveedor.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\pedido\proveedor\servicio\servicio-modificar-pedido.proveedor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+      </file>
+      <file name="servicio-registrar-pedido.proveedor.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\pedido\proveedor\servicio\servicio-registrar-pedido.proveedor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.producto">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="producto.module.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\producto\producto.module.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.producto-solicitado">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="producto-solicitado.module.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\producto-solicitado\producto-solicitado.module.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.producto-solicitado.adaptador.dao">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="dao-producto-solicitado-postgres.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\producto-solicitado\adaptador\dao\dao-producto-solicitado-postgres.ts">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.producto-solicitado.adaptador.repositorio">
+      <metrics statements="25" coveredstatements="22" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="6"/>
+      <file name="repositorio-producto-solicitado-postgres.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\producto-solicitado\adaptador\repositorio\repositorio-producto-solicitado-postgres.ts">
+        <metrics statements="25" coveredstatements="22" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="6"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="13" count="10" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="44" count="3" type="stmt"/>
+        <line num="45" count="3" type="stmt"/>
+        <line num="46" count="3" type="stmt"/>
+        <line num="47" count="3" type="stmt"/>
+        <line num="48" count="3" type="stmt"/>
+        <line num="49" count="3" type="stmt"/>
+        <line num="50" count="3" type="stmt"/>
+        <line num="51" count="3" type="stmt"/>
+        <line num="52" count="3" type="stmt"/>
+        <line num="53" count="3" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="68" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.producto-solicitado.controlador">
+      <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <file name="producto-solicitado.controlador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\producto-solicitado\controlador\producto-solicitado.controlador.ts">
+        <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="21" count="4" type="stmt"/>
+        <line num="25" count="5" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="30" count="5" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="35" count="5" type="stmt"/>
+        <line num="36" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.producto-solicitado.entidad">
+      <metrics statements="14" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="producto-solicitado.entidad.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\producto-solicitado\entidad\producto-solicitado.entidad.ts">
+        <metrics statements="14" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="19" count="5" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+        <line num="25" count="5" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+        <line num="31" count="5" type="stmt"/>
+        <line num="34" count="5" type="stmt"/>
+        <line num="37" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.producto-solicitado.proveedor">
+      <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="producto-solicitado-proveedor.module.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\producto-solicitado\proveedor\producto-solicitado-proveedor.module.ts">
+        <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="23" count="5" type="stmt"/>
+        <line num="24" count="5" type="stmt"/>
+        <line num="50" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.producto-solicitado.proveedor.dao">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="dao-producto-solicitado.proveedor.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\producto-solicitado\proveedor\dao\dao-producto-solicitado.proveedor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.producto-solicitado.proveedor.repositorio">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="repositorio-producto-solicitado.proveedor.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\producto-solicitado\proveedor\repositorio\repositorio-producto-solicitado.proveedor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.producto-solicitado.proveedor.servicio">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="servicio-eliminar-producto-solicitado.proveedor.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\producto-solicitado\proveedor\servicio\servicio-eliminar-producto-solicitado.proveedor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+      </file>
+      <file name="servicio-registrar-producto-solicitado.proveedor.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\producto-solicitado\proveedor\servicio\servicio-registrar-producto-solicitado.proveedor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.producto.adaptador.dao">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="dao-producto-postgres.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\producto\adaptador\dao\dao-producto-postgres.ts">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.producto.adaptador.repositorio">
+      <metrics statements="23" coveredstatements="23" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9"/>
+      <file name="repositorio-producto-postgres.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\producto\adaptador\repositorio\repositorio-producto-postgres.ts">
+        <metrics statements="23" coveredstatements="23" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="12" count="10" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="20" count="9" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="27" count="3" type="stmt"/>
+        <line num="32" count="4" type="stmt"/>
+        <line num="33" count="4" type="stmt"/>
+        <line num="45" count="5" type="stmt"/>
+        <line num="46" count="5" type="stmt"/>
+        <line num="47" count="5" type="stmt"/>
+        <line num="48" count="5" type="stmt"/>
+        <line num="49" count="5" type="stmt"/>
+        <line num="50" count="5" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="58" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.producto.controlador">
+      <metrics statements="23" coveredstatements="23" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <file name="producto.controlador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\producto\controlador\producto.controlador.ts">
+        <metrics statements="23" coveredstatements="23" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+        <line num="23" count="7" type="stmt"/>
+        <line num="27" count="5" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="32" count="5" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="37" count="5" type="stmt"/>
+        <line num="38" count="3" type="stmt"/>
+        <line num="42" count="5" type="stmt"/>
+        <line num="43" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.producto.entidad">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="producto.entidad.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\producto\entidad\producto.entidad.ts">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="24" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.producto.proveedor">
+      <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="producto-proveedor.module.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\producto\proveedor\producto-proveedor.module.ts">
+        <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="19" count="5" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="23" count="5" type="stmt"/>
+        <line num="24" count="5" type="stmt"/>
+        <line num="53" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.producto.proveedor.dao">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="dao-producto.proveedor.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\producto\proveedor\dao\dao-producto.proveedor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.producto.proveedor.repositorio">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="repositorio-producto.proveedor.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\producto\proveedor\repositorio\repositorio-producto.proveedor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.producto.proveedor.servicio">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="servicio-eliminar-producto.proveedor.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\producto\proveedor\servicio\servicio-eliminar-producto.proveedor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+      </file>
+      <file name="servicio-modificar-producto.proveedor.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\producto\proveedor\servicio\servicio-modificar-producto.proveedor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+      </file>
+      <file name="servicio-registrar-producto.proveedor.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\producto\proveedor\servicio\servicio-registrar-producto.proveedor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.productos-por-pedido">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="productos-por-pedido.module.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\productos-por-pedido\productos-por-pedido.module.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.productos-por-pedido.adaptador.dao">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="dao-productos-por-pedido-postgres.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\productos-por-pedido\adaptador\dao\dao-productos-por-pedido-postgres.ts">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.productos-por-pedido.adaptador.repositorio">
+      <metrics statements="18" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+      <file name="repositorio-productos-por-pedido-postgres.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\productos-por-pedido\adaptador\repositorio\repositorio-productos-por-pedido-postgres.ts">
+        <metrics statements="18" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="37" count="2" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.productos-por-pedido.controlador">
+      <metrics statements="23" coveredstatements="23" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <file name="productos-por-pedido.controlador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\productos-por-pedido\controlador\productos-por-pedido.controlador.ts">
+        <metrics statements="23" coveredstatements="23" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="27" count="5" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="32" count="5" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="37" count="5" type="stmt"/>
+        <line num="38" count="3" type="stmt"/>
+        <line num="42" count="5" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.productos-por-pedido.entidad">
+      <metrics statements="12" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="productos-por-pedido.entidad.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\productos-por-pedido\entidad\productos-por-pedido.entidad.ts">
+        <metrics statements="12" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="24" count="5" type="stmt"/>
+        <line num="27" count="5" type="stmt"/>
+        <line num="30" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.productos-por-pedido.proveedor">
+      <metrics statements="25" coveredstatements="25" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="productos-por-pedido-proveedor.module.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\productos-por-pedido\proveedor\productos-por-pedido-proveedor.module.ts">
+        <metrics statements="25" coveredstatements="25" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+        <line num="24" count="5" type="stmt"/>
+        <line num="25" count="5" type="stmt"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="27" count="5" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+        <line num="29" count="5" type="stmt"/>
+        <line num="30" count="5" type="stmt"/>
+        <line num="61" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.productos-por-pedido.proveedor.dao">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="dao-productos-por-pedido.proveedor.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\productos-por-pedido\proveedor\dao\dao-productos-por-pedido.proveedor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.productos-por-pedido.proveedor.repositorio">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="repositorio-productos-por-pedido.proveedor.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\productos-por-pedido\proveedor\repositorio\repositorio-productos-por-pedido.proveedor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.productos-por-pedido.proveedor.servicio">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="servicio-eliminar-productos-por-pedido.proveedor.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\productos-por-pedido\proveedor\servicio\servicio-eliminar-productos-por-pedido.proveedor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+      </file>
+      <file name="servicio-modificar-productos-por-pedido.proveedor.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\productos-por-pedido\proveedor\servicio\servicio-modificar-productos-por-pedido.proveedor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+      </file>
+      <file name="servicio-registrar-productos-por-pedido.proveedor.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\productos-por-pedido\proveedor\servicio\servicio-registrar-productos-por-pedido.proveedor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.usuario">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="usuario.module.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\usuario\usuario.module.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.usuario.adaptador.dao">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="dao-usuario-mysql.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\usuario\adaptador\dao\dao-usuario-mysql.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.usuario.adaptador.repositorio">
+      <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <file name="repositorio-usuario-mysql.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\usuario\adaptador\repositorio\repositorio-usuario-mysql.ts">
+        <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.usuario.controlador">
+      <metrics statements="15" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="usuario.controlador.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\usuario\controlador\usuario.controlador.ts">
+        <metrics statements="15" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="23" count="5" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.usuario.entidad">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="usuario.entidad.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\usuario\entidad\usuario.entidad.ts">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.usuario.proveedor">
+      <metrics statements="15" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="usuario-proveedor.module.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\usuario\proveedor\usuario-proveedor.module.ts">
+        <metrics statements="15" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="36" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.usuario.proveedor.dao">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="dao-usuario.proveedor.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\usuario\proveedor\dao\dao-usuario.proveedor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.usuario.proveedor.repositorio">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="repositorio-usuario.proveedor.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\usuario\proveedor\repositorio\repositorio-usuario.proveedor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infraestructura.usuario.proveedor.servicio">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="servicio-eliminar-usuario.proveedor.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\usuario\proveedor\servicio\servicio-eliminar-usuario.proveedor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+      </file>
+      <file name="servicio-registrar-usuario.proveedor.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\src\infraestructura\usuario\proveedor\servicio\servicio-registrar-usuario.proveedor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="test.util">
+      <metrics statements="8" coveredstatements="7" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+      <file name="create-object.stub.ts" path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\test\util\create-object.stub.ts">
+        <metrics statements="8" coveredstatements="7" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="1" count="12" type="stmt"/>
+        <line num="14" count="12" type="stmt"/>
+        <line num="16" count="29" type="cond" truecount="1" falsecount="1"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="29" type="stmt"/>
+        <line num="21" count="29" type="stmt"/>
+        <line num="22" count="71" type="stmt"/>
+        <line num="23" count="29" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

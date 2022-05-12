@@ -1,0 +1,37 @@
+@import '../../common/scss/colors';
+
+.notesPreview{    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+
+    &__newNote {
+        height: 20px;
+        width: 20px;
+        cursor: pointer;
+        color: $golden-dark;
+    }
+
+    &__date {
+        font-family: londrinaSolidLight;
+        font-size: small;
+        color: $golden-dark;
+        letter-spacing: 1px;
+        align-self: flex-end;
+        margin-bottom: 5px;
+    }
+
+    &__note {
+        font-family: londrinaSolidRegular;
+        font-size: 15px;
+        background: none;
+        border-radius: 5px;
+        border: 3px inset $golden-dark;
+        color: $golden-dark;
+        width: 95%;
+        padding: 3px;
+        align-self: center;
+    }
+}

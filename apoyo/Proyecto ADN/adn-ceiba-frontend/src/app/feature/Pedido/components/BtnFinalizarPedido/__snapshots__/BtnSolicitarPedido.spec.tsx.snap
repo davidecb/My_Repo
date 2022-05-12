@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BtnSolicitarPedido Test should match snapshot 1`] = `
+<div>
+  <button
+    class="sc-AxjAm dmxFrE"
+  >
+    <span>
+      Realizar Pedido
+    </span>
+  </button>
+</div>
+`;

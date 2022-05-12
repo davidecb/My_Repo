@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CaracteristicasPedido Test should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-AxjAm dlYdrF"
+  >
+    <div>
+      <b>
+        numero de pedido:
+      </b>
+       
+      123456789
+    </div>
+    <div>
+      <b>
+        cantidad productos:
+      </b>
+       
+      0
+    </div>
+    <div>
+      <b>
+        costo total:
+      </b>
+       $
+      10000
+    </div>
+    <div>
+      <b>
+        tiempo total:
+      </b>
+       
+      30
+       min.
+    </div>
+    <button
+      class="sc-AxiKw leNlab"
+    >
+      <span>
+        Realizar Pedido
+      </span>
+    </button>
+  </div>
+</div>
+`;

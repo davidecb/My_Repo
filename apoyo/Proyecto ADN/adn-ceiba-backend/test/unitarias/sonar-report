@@ -1,0 +1,15 @@
+<testExecutions version="1">
+<file path="test\e2e\usuario\controlador\controlador-usuario.e2e-spec.ts">
+<testCase name="Pruebas al controlador de usuarios Crear un usuario con clave corta debe marcar error" duration="2">
+<failure message="Error"><![CDATA[Timeout - Async callback was not invoked within the 5000ms timeout specified by jest.setTimeout.Error: Timeout - Async callback was not invoked within the 5000ms timeout specified by jest.setTimeout.
+    at mapper (C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\node_modules\jest-jasmine2\build\queueRunner.js:27:45)
+    at C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\node_modules\jest-jasmine2\build\queueRunner.js:75:41]]></failure>,<failure message="Error"><![CDATA[TypeError: Cannot read property &apos;getHttpServer&apos; of undefined
+    at Object.&lt;anonymous&gt; (C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\test\e2e\usuario\controlador\controlador-usuario.e2e-spec.ts:48:40)
+    at Object.asyncJestTest (C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\node_modules\jest-jasmine2\build\jasmineAsyncInstall.js:100:37)
+    at C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\node_modules\jest-jasmine2\build\queueRunner.js:45:12
+    at new Promise (&lt;anonymous&gt;)
+    at mapper (C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\node_modules\jest-jasmine2\build\queueRunner.js:28:19)
+    at C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-backend\node_modules\jest-jasmine2\build\queueRunner.js:75:41]]></failure>
+</testCase>
+</file>
+</testExecutions>

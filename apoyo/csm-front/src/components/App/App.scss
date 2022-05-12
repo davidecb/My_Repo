@@ -1,0 +1,41 @@
+@import '../../common/scss/fonts';
+@import '../../common/scss/colors';
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.App {
+    background: $background;
+    height: 100vh;
+
+    .defaultButton {
+        margin: 10px;
+        height: 80%;
+        padding: 5px;
+        font-family: londrinaSolidBlack; 
+        font-size: 15px; 
+        background: $golden-poppy;
+        border: $golden-dark 2px inset;
+        border-radius: 10px;
+        cursor: pointer;
+
+        &:hover {
+            margin: 8px;
+            font-size: 18px;
+            transition: all 0.05s ease;
+        }
+    }
+
+    .defaultTitle {        
+        font-size: 35px;
+        font-family: londrinaSolidBlack;   
+        letter-spacing: 2px;     
+        color: $golden-poppy;
+        align-self: center;
+        margin: 5px;        
+    }
+}
+

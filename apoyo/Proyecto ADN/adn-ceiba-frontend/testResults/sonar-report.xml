@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+    <file path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-frontend\src\app\shared\components\SelectorCantidad\SelectorCantidad.spec.tsx">
+        <testCase name="SelectorCantidad test should match snapshot" duration="62"/>
+        <testCase name="SelectorCantidad test should not allow to select quantity less than one" duration="26"/>
+        <testCase name="SelectorCantidad test should show 3 before click 2 times the more button" duration="37"/>
+        <testCase name="SelectorCantidad test should show 4 before click 4 times the more button and 1 time the less button" duration="24"/>
+    </file>
+    <file path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-frontend\src\app\feature\Producto\containers\GestionProductos\GestionProductos.spec.tsx">
+        <testCase name="GestionProductos Test should match snapshot" duration="88"/>
+    </file>
+    <file path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-frontend\src\app\feature\Pedido\containers\GestionPedido\GestionPedido.spec.tsx">
+        <testCase name="GestionPedido Test should match snapshot" duration="62"/>
+    </file>
+    <file path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-frontend\src\app\feature\Pedido\components\CaracteristicasPedido\CaracteristicasPedido.spec.tsx">
+        <testCase name="CaracteristicasPedido Test should match snapshot" duration="59"/>
+        <testCase name="CaracteristicasPedido Test should show formSolicitarPedido on FinalizarPedido click" duration="57"/>
+        <testCase name="CaracteristicasPedido Test should close formSolicitarProducto on cancelar button click" duration="43"/>
+        <testCase name="CaracteristicasPedido Test should submit and close the form when click on agregar al carrito button" duration="42"/>
+    </file>
+    <file path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-frontend\src\app\feature\Pedido\components\FormSolicitarPedido\FormSolicitarPedido.spec.tsx">
+        <testCase name="FormSolicitarPedido test should match snapshot" duration="73"/>
+        <testCase name="FormSolicitarPedido test should fail on submit all fields missing" duration="50"/>
+        <testCase name="FormSolicitarPedido test should fail on submit one field missing" duration="64"/>
+        <testCase name="FormSolicitarPedido test should submit" duration="61"/>
+    </file>
+    <file path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-frontend\src\app\shared\components\FormSolicitarProducto\FormSolicitarProducto.spec.tsx">
+        <testCase name="FormSolicitarProducto test should match snapshot" duration="103"/>
+        <testCase name="FormSolicitarProducto test should fail on submit all fields missing" duration="73"/>
+        <testCase name="FormSolicitarProducto test should fail on submit one field missing" duration="75"/>
+        <testCase name="FormSolicitarProducto test should submit" duration="79"/>
+    </file>
+    <file path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-frontend\src\app\feature\Producto\components\ListarProductos\ListarProductos.spec.tsx">
+        <testCase name="ListarProductos Test should match snapshot" duration="72"/>
+        <testCase name="ListarProductos Test should show formSolicitarProducto on personalizarProducto click" duration="80"/>
+        <testCase name="ListarProductos Test should close formSolicitarProducto on cancelar button click" duration="42"/>
+        <testCase name="ListarProductos Test should submit and close the form when click on agregar al carrito button" duration="121"/>
+    </file>
+    <file path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-frontend\src\app\feature\Producto\components\TarjetaProducto\TarjetaProducto.spec.tsx">
+        <testCase name="TarjetaProducto Test should match snapshot" duration="30"/>
+    </file>
+    <file path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-frontend\src\app\feature\Pedido\components\TarjetaProductoSolicitado\TarjetaProductoSolicitado.spec.tsx">
+        <testCase name="TarjetaProductoSolicitado Test should match snapshot" duration="52"/>
+    </file>
+    <file path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-frontend\src\app\feature\Producto\components\BtnSolicitarProducto\BtnSolicitarProducto.spec.tsx">
+        <testCase name="BtnSolicitarProducto Test should match snapshot" duration="10"/>
+    </file>
+    <file path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-frontend\src\app\feature\Producto\components\BtnPersonalizarProducto\BtnPersonalizarProducto.spec.tsx">
+        <testCase name="BtnPersonalizarProducto Test should match snapshot" duration="8"/>
+    </file>
+    <file path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-frontend\src\app\feature\Pedido\components\BtnFinalizarPedido\BtnSolicitarPedido.spec.tsx">
+        <testCase name="BtnSolicitarPedido Test should match snapshot" duration="6"/>
+    </file>
+    <file path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-frontend\src\app\feature\Pedido\components\ListarPedido\ListarPedido.spec.tsx">
+        <testCase name="ListarPedido Test should match snapshot" duration="53"/>
+    </file>
+    <file path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-frontend\src\app\feature\Pedido\components\BtnSolicitarPedido\BtnSolicitarPedido.spec.tsx">
+        <testCase name="BtnSolicitarPedido Test should match snapshot" duration="5"/>
+    </file>
+    <file path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-frontend\src\app\feature\Home\components\HolaMundo\HolaMundo.spec.tsx">
+        <testCase name="HolaMundo Test should match snapshot" duration="3"/>
+    </file>
+    <file path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-frontend\src\app\core\redux\reductores\productosSolicitados\productosSolicitadosReductor.spec.ts">
+        <testCase name="Reductor productos debería agregar productos solicitados" duration="1"/>
+        <testCase name="Reductor productos debería eliminar productos solicitados" duration="1"/>
+        <testCase name="Reductor productos debería listar productos solicitados" duration="0"/>
+    </file>
+    <file path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-frontend\src\app\core\redux\reductores\pedido\PedidoReductor.spec.ts">
+        <testCase name="Reductor pedidos debería agregar un pedido" duration="2"/>
+        <testCase name="Reductor pedidos debería eliminar un pedido" duration="1"/>
+        <testCase name="Reductor pedidos debería finalizar un pedido" duration="0"/>
+        <testCase name="Reductor pedidos debería listar un pedido" duration="1"/>
+    </file>
+    <file path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-frontend\src\app\feature\Producto\components\PaginadorProductos\PaginadorProductos.spec.tsx">
+        <testCase name="PaginadorProductos Test should match snapshot" duration="5"/>
+        <testCase name="PaginadorProductos Test Renderizar con menos de 10 productos no debe pintar botones" duration="0"/>
+        <testCase name="PaginadorProductos Test Renderizar con  20 productos debe pintar 2 botones" duration="6"/>
+    </file>
+    <file path="C:\Users\david.cortes\Downloads\Proyecto ADN\adn-ceiba-frontend\src\app\core\redux\reductores\productos\ProductosReductor.spec.ts">
+        <testCase name="Reductor productos debería agregar productos" duration="1"/>
+        <testCase name="Reductor productos debería eliminar productos" duration="1"/>
+        <testCase name="Reductor productos debería listar productos" duration="0"/>
+    </file>
+</testExecutions>

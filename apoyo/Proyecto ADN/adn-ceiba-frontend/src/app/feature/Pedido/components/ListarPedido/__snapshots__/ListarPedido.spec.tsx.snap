@@ -1,0 +1,124 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListarPedido Test should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-AxjAm fLEotY"
+  >
+    <div
+      class="sc-AxiKw dsFtPB"
+    >
+      <div
+        class="sc-AxhCb jeWGrZ"
+      >
+        ❌
+      </div>
+      <img
+        class="sc-fzozJi hbgqHR"
+        src="imagen.jpg"
+      />
+      <div
+        class="sc-AxhUy bkJSOX"
+      >
+        producto testing
+      </div>
+      <span
+        class="sc-AxgMl cwFzxf"
+      >
+        <b>
+          costo/unidad:
+        </b>
+         $
+      </span>
+      <span
+        class="sc-AxheI hqpeRh"
+      >
+        <b>
+          tiempo/unidad:
+        </b>
+         
+         min.
+      </span>
+      <div
+        class="sc-AxmLO bpTpsY"
+      >
+        <div>
+          <b>
+            material:
+          </b>
+           
+          PLA
+        </div>
+        <div>
+          <b>
+            color:
+          </b>
+           
+          negro
+        </div>
+        <div>
+          <b>
+            acabado:
+          </b>
+          <div
+            class="sc-Axmtr qsoLG"
+          >
+            <div>
+              pulido: 
+              <input
+                type="checkbox"
+              />
+            </div>
+            <div>
+              pintado: 
+              <input
+                type="checkbox"
+              />
+            </div>
+            <div>
+              barnizado: 
+              <input
+                type="checkbox"
+              />
+            </div>
+          </div>
+        </div>
+        <div>
+          <b>
+            urgencia:
+          </b>
+          <input
+            type="checkbox"
+          />
+        </div>
+        <div>
+          <b>
+            cantidad:
+          </b>
+           
+          2
+        </div>
+      </div>
+      <span
+        class="sc-AxgMl cwFzxf"
+      >
+        <b>
+          costo total:
+        </b>
+         $
+        NaN
+      </span>
+      <span
+        class="sc-AxheI hqpeRh"
+      >
+        <b>
+          tiempo total:
+        </b>
+         
+        NaN
+         min.
+      </span>
+    </div>
+  </div>
+</div>
+`;

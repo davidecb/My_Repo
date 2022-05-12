@@ -1,0 +1,18 @@
+@import '../../common/scss/colors';
+
+.dragAndDrop {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border: dashed $background 5px;
+    border-radius: 15px;
+
+    &--dragFlag {
+        border-style: dashed;
+        border: dashed $golden-poppy 5px;
+        border-radius: 15px;
+        background-image: radial-gradient(rgba(143, 143, 143, 0.644), black 80%) ;    
+        opacity: 0.3;    
+        transition: all 0.5s ease;
+    }
+}

@@ -1,0 +1,24 @@
+@import '../../common/scss/colors';
+
+.models{
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: flex-start;
+    align-items: center;
+    overflow: auto;    
+    background: black;
+
+    .headerCont {
+        display: flex;
+        align-items: center;
+    }
+
+    &__viewer {
+        width: auto;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    
+}

@@ -1,0 +1,149 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FormSolicitarProducto test should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-AxjAm dUnTGy"
+  >
+    <span
+      class="sc-AxirZ gMixma"
+    >
+      ❌
+    </span>
+    <form
+      class="sc-AxhCb eFvPgw"
+    >
+      <h2>
+        Personalizar 
+      </h2>
+      <select
+        class="sc-Axmtr fVKlMS"
+        name="material"
+        placeholder="material"
+      >
+        <option
+          value=""
+        >
+          Material
+        </option>
+        <option
+          value="PLA"
+        >
+          PLA
+        </option>
+        <option
+          value="ABS"
+        >
+          ABS
+        </option>
+      </select>
+      <select
+        class="sc-Axmtr fVKlMS"
+        name="color"
+        placeholder="color"
+      >
+        <option
+          value=""
+        >
+          Color
+        </option>
+        <option
+          value="negro"
+        >
+          Negro
+        </option>
+        <option
+          value="blanco"
+        >
+          Blanco
+        </option>
+        <option
+          value="negro mate"
+        >
+          Negro mate
+        </option>
+        <option
+          value="madera"
+        >
+          Madera
+        </option>
+        <option
+          value="plata"
+        >
+          Plata
+        </option>
+      </select>
+      <div
+        class="sc-AxhUy colrEl"
+      >
+        Acabados:
+        <label
+          class="sc-AxiKw jXpQYs"
+        >
+          Pulido 
+          <input
+            name="acabado"
+            type="checkbox"
+            value="pulido"
+          />
+        </label>
+        <label
+          class="sc-AxiKw jXpQYs"
+        >
+          Pintado 
+          <input
+            name="acabado"
+            type="checkbox"
+            value="pintado"
+          />
+        </label>
+        <label
+          class="sc-AxiKw jXpQYs"
+        >
+          Barnizado 
+          <input
+            name="acabado"
+            type="checkbox"
+            value="barnizado"
+          />
+        </label>
+      </div>
+      <label
+        class="sc-AxiKw jXpQYs"
+      >
+        Urgencia: 
+        <input
+          name="acabado"
+          type="checkbox"
+          value="urgencia"
+        />
+      </label>
+      <div
+        class="sc-AxmLO VxQKP"
+      >
+        <div
+          class="sc-fzozJi kzamqH"
+        >
+          ➖
+        </div>
+        <div
+          class="sc-fzoLsD fzRNOu"
+        >
+          1
+        </div>
+        <div
+          class="sc-fzozJi kzamqH"
+        >
+          ➕
+        </div>
+      </div>
+      <button
+        class="sc-AxheI ePbRpe"
+        type="submit"
+      >
+        Agregar al carrito
+      </button>
+    </form>
+  </div>
+</div>
+`;

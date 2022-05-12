@@ -1,0 +1,42 @@
+@import '../../common/scss/colors';
+
+
+.card{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin: 7px;
+    border-radius: 15px;
+    border: 3px solid $golden-dark;
+    padding: 5px;
+    color: $basic-black;
+    background-color: $golden-poppy;
+    opacity: 0.6;
+    
+    &:hover {
+        opacity: 0.9;                
+    }
+
+    &__image {
+        width: 150px;
+        height: 150px;
+        padding: 5px;
+        display: flexbox;
+        border-radius: 100%;
+        border: 5px groove $golden-dark;
+    }
+
+    &__name {
+        font-family: londrinaSolidRegular;
+        font-size: x-large;        
+    }
+
+    &__subtitle {
+        font-family: londrinaSolidRegular;
+        font-size: large;        
+    }
+}
+

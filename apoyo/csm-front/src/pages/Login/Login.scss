@@ -1,0 +1,140 @@
+@import '../../common/scss/colors';
+
+.loginContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background: url(../../assets/logo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+
+    &__loginFormContainer {
+        margin: 20px;
+        padding: 20px;
+        min-width: 50%;
+        background: $background;
+        opacity: 0.7;
+        border-radius: 15px;
+        box-shadow: 1px 1px 15px $golden-dark;
+        
+        &--unauthorized {
+            box-shadow: 1px 1px 60px $red-dark;
+        }
+    }
+    
+    .loginTitle {
+        font-family:  londrinaSolidBlack; 
+        position: relative;
+        margin-top: 0px;
+        text-align: center;
+        font-size: 45px;
+        color: $golden-poppy;
+        text-shadow: 3px 3px 10px $basic-black;
+    }
+
+    .unauthorizedMessage {
+        display: none;
+
+        &--unauthorized {
+            display: block;
+            color: $red-dark;
+            font-family:  londrinaSolidBlack;
+            margin-top: 0px;
+            text-align: center;
+            font-size: 15px;
+        }
+    }
+    
+    .loginInputs{
+        font-family: londrinaSolidLight;
+        text-decoration: none;
+        position: relative;
+        width: 80%;
+        display: block;
+        margin: 9px auto;
+        font-size: 18px;
+        color: #fff;
+        padding: 8px;
+        border-radius: 6px;
+        border: none;
+        background: rgba(3,3,3,.6);
+        -webkit-transition: all 2s ease-in-out;
+        -moz-transition: all 2s ease-in-out;
+        -o-transition: all 2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+    }
+      
+    .loginInputs:focus{
+        outline: none;
+        box-shadow: 3px 3px 10px goldenrod;
+        background: rgba(3,3,3,.7);
+    }
+    
+    a{
+        text-decoration: none;
+    }
+    
+    .loginButton{
+        font-family: londrinaSolidRegular;
+        font-size: larger;
+        font-weight: bolder;
+        text-decoration: none;
+        letter-spacing: 1px;
+        text-align: center;
+        padding: 4px 8px;
+        background: $golden-dark;
+        width: 150px;   
+        position: relative;    
+        display: block;
+        margin: 9px auto;    
+        color: $basic-black;    
+        border-radius: 6px;
+        border: none;
+        opacity: 0.7;
+        -webkit-transition: all 2s ease-in-out;
+        -moz-transition: all 2s ease-in-out;
+        -o-transition: all 2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+    }
+      
+    .loginButton:hover{
+        opacity: 1;
+    }
+    
+    .rememberContainer{
+        display: flex;
+        justify-content: flex-start;
+        margin: 5px 20px;
+        padding: 0;
+    }
+    
+    .rememberText{
+        font-size: 13px;
+        font-family: londrinaSolidLight;
+        color: rgba(255,255,255,.5);
+        top: 7px;
+        left: 20px;
+    }
+    
+    .rememberCheckbox{
+     margin-left: 50px;
+     margin-right: 2px;
+    }
+
+    .welcomeMessage {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: $background;
+        font-family:  londrinaSolidBlack; 
+        font-size: 60px;
+        color: $golden-poppy;
+        text-shadow: 3px 3px 10px $basic-black;
+    }
+}    
+

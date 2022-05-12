@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TarjetaProducto Test should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-AxjAm dERIyq"
+  >
+    <img
+      class="sc-AxhUy YCAwq"
+      src="imagen.jpg"
+    />
+    <div
+      class="sc-AxirZ cNXfXq"
+    >
+      producto testing
+    </div>
+    <div
+      class="sc-AxiKw hjBCiN"
+    >
+      $ 
+      10000
+    </div>
+    <div
+      class="sc-AxhCb jwgvDN"
+    >
+      30
+       min.
+    </div>
+    <button
+      class="sc-AxgMl cMdgkA"
+    >
+      <span>
+        personalizar
+      </span>
+    </button>
+  </div>
+</div>
+`;
